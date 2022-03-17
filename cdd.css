@@ -25,8 +25,3 @@
       font-size: 36px;
 }
 
-@keyframes textclip {
-  to {
-    background-position: 200% center;
-  }
-}
