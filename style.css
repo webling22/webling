@@ -52,3 +52,26 @@
 .fas {
     font-size: 20px !important;
 }
+
+
+@media (min-width: 1000px) {
+   
+   
+.srcvideo{
+    width: 600px;
+    height: 300px;
+}
+
+  }
+
+
+@media (max-width: 1000px) {
+ 
+.srcvideo{
+    width: 300px;
+    height: 150px;
+}
+
+   
+  
+  }
